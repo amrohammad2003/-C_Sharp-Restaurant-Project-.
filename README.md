@@ -1,6 +1,6 @@
 ## 🗄️ Database Migration
 this project focus in OOP Learining while training in ultimit company.
-This project uses **Entity Framework Core Migrations** to keep the database schema in sync with the C# domain models.  
+in addition , This project uses **Entity Framework Core Migrations** to keep the database schema in sync with the C# domain models.  
 Whenever the data model changes (e.g., adding a new entity for logging), a new migration can be created and applied to update the database.
 
 ### Common Commands
